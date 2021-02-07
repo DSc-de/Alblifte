@@ -5,7 +5,7 @@
 Korrekturen und Fehlermeldungen: Am einfachsten direkt als [GitHub Issue](https://github.com/DSc-de/Alblifte/issues/new/choose)
 
 ## Format
-Derzeit steht die Sammlung als SQLite Datenbank zur Verfügung. 
+Derzeit steht die Sammlung als [SQLite Datenbank](https://github.com/DSc-de/Alblifte/blob/main/data/Alblifte.sqlite) zur Verfügung. 
 
 ## Demo
 Die [Website der Alblifte Datenbank](https://dsc-de.github.io/Alblifte/) listet alle Datensätze.

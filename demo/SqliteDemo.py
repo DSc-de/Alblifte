@@ -141,7 +141,7 @@ def printSkiArea(sa):
 # ------------------------------------------------------------------------------
 
 # Connect to sqlite DB and create cursor
-conn = sqlite3.connect('../alblifte/data/Alblifte.sqlite')
+conn = sqlite3.connect('../data/Alblifte.sqlite')
 c = conn.cursor()
 
 # Query all areas and print an overview, line by line

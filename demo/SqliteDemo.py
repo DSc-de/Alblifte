@@ -111,7 +111,7 @@ def printSkiArea(sa):
 
     # ----------------------------------------------------------------
     # Print header
-    print(f'### {ID}')
+    print(f'### Lift ID: {ID}')
 
     # ----------------------------------------------------------------
     # Print location
@@ -122,18 +122,22 @@ def printSkiArea(sa):
     printLink( 'Webcam Link',    WebcamLink)
     printLink( 'Status Link',    StatusLink)
     printField('Schnee Telefon', Tel1, Tel2)
+    print('')
 
     # ----------------------------------------------------------------
     # Print infrastructure
     printInfrastruktur(sa[10:20]);
+    print('')
 
     # ----------------------------------------------------------------
     # Social
     printSocialMedia(sa[20:24]);
+    print('')
 
     # ----------------------------------------------------------------
     # Print footer
     print('---')
+    print('')
 
 
 # ------------------------------------------------------------------------------

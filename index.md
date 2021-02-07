@@ -1,6 +1,6 @@
 ### Bartholomae
 _Lift:_
-* Name: Skilift Bartholomä
+* Name: Skilift BartholomÃ¤
 * [Website](http://www.wirtsberg.de)
 * Position: 48.74643; 9.99566
 * [Webcam Link](http://wirtsberg.de/webcam/)
@@ -60,9 +60,9 @@ _Lift:_
 _Infrastruktur:_ Kunstschnee, Sommerbetrieb, Bikepark, 
 * _Social Media:_ [Facebook](https://www.facebook.com/Skilift-Burladingen-1625638694331016/) ,
 ---
-### Böttingen
+### BÃ¶ttingen
 _Lift:_
-* Name: Skilift Böttingen
+* Name: Skilift BÃ¶ttingen
 * [Website](https://www.skilift-boettingen.de/)
 * Position: 48.098483; 8.809533
 * [Webcam Link](https://www.skilift-boettingen.de/index.php/webcam)
@@ -183,9 +183,9 @@ _Lift:_
 _Infrastruktur:_ Kunstschnee, Flutlicht, Funpark, 
 * _Social Media:_ [Facebook](https://www.facebook.com/pages/Wintersportzentrum-Greuth/189308424486245) ,
 ---
-### Großerlach
+### GroÃŸerlach
 _Lift:_
-* Name: Skilift und Bikepark Großerlach
+* Name: Skilift und Bikepark GroÃŸerlach
 * [Website](http://www.skilift-grosserlach.de/winter.html)
 * Position: 49.051026; 9.51836
 * [Status Link](http://www.skilift-grosserlach.de)
@@ -279,9 +279,9 @@ _Lift:_
 _Infrastruktur:_ Kunstschnee, Flutlicht, Rodelhang, 
 * _Social Media:_ [Facebook](http://www.facebook.com/pages/Skilift-Traifelberg/277889155577153) ,
 ---
-### Hülben
+### HÃ¼lben
 _Lift:_
-* Name: Skilift Hesel in Römerstein Böhringen
+* Name: Skilift Hesel in RÃ¶merstein BÃ¶hringen
 * [Website](http://www.schiclubhuelben.de/ski-lift-hesel)
 * Position: 48.50364; 9.5649
 _Infrastruktur:_ Kunstschnee, 
@@ -345,15 +345,15 @@ _Infrastruktur:_ Kunstschnee, Flutlicht,
 ---
 ### Mehrstetten
 _Lift:_
-* Name: Skilift Böttental
+* Name: Skilift BÃ¶ttental
 * [Website](none)
 * Position: 48.386356; 9.561485
 * Schnee Telefon: 07381 / 934264
 _Infrastruktur:_ Kunstschnee, 
 ---
-### Meßstetten
+### MeÃŸstetten
 _Lift:_
-* Name: Skiarena Täle
+* Name: Skiarena TÃ¤le
 * [Website](https://www.skiverein.de/)
 * Position: 48.1845; 8.9517
 * [Status Link](https://www.skiverein.de/)
@@ -361,7 +361,7 @@ _Lift:_
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 * _Social Media:_ [Facebook](https://www.facebook.com/Langlaeufer/) ,
 ---
-### Mühlheim
+### MÃ¼hlheim
 _Lift:_
 * Name: Skilift Kanapee
 * [Website](https://skiclub-muehlheim.de/)
@@ -371,9 +371,9 @@ _Lift:_
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 * _Social Media:_ [Facebook](https://www.facebook.com/Skiclub-M%C3%BChlheim-eV-1517158168537428/) ,
 ---
-### Münsingen
+### MÃ¼nsingen
 _Lift:_
-* Name: Skilift Ziegelhäuser
+* Name: Skilift ZiegelhÃ¤user
 * [Website](https://svauingen.de/skilift-muensingen/)
 * Position: 48.39812; 9.49115
 * [Status Link](https://svauingen.de/skilift-muensingen/)
@@ -392,7 +392,7 @@ _Infrastruktur:_ Kunstschnee, Flutlicht,
 ---
 ### Neuffen
 _Lift:_
-* Name: Skigelände am Lettenberg in Neuffen
+* Name: SkigelÃ¤nde am Lettenberg in Neuffen
 * [Website](http://www.tbneuffen.de/cms/abteilung/Ski/infoseite/679)
 * Position: 48.542946; 9.375991
 * Schnee Telefon: 07025 / 7750 ;  
@@ -400,7 +400,7 @@ _Infrastruktur:_ Kunstschnee, Flutlicht,
 ---
 ### Neufra
 _Lift:_
-* Name: Roter-Bühl-Lift
+* Name: Roter-BÃ¼hl-Lift
 * [Website](http://www.skiclub-neufra.de/html/liftbetrieb.html)
 * Position: 48.24911; 9.1812
 * Schnee Telefon: 07574 / 3489
@@ -475,7 +475,7 @@ _Lift:_
 * [Website](https://www.bewegungszentrumpfulb.de/begeisterung/)
 * Position: 48.5298212963715; 9.53690528869629
 * [Status Link](https://www.bewegungszentrumpfulb.de)
-* Schnee Telefon: 07026 / 3763394 (Pfulb-Hütte mit AB) ; 07026 / 3710999 (Pfulb-Büro ohne AB)
+* Schnee Telefon: 07026 / 3763394 (Pfulb-HÃ¼tte mit AB) ; 07026 / 3710999 (Pfulb-BÃ¼ro ohne AB)
 _Infrastruktur:_ Kunstschnee, Flutlicht, Rodelhang, 
 ---
 ### Salmendingen
@@ -508,9 +508,9 @@ _Lift:_
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 * _Social Media:_ [Facebook](https://de-de.facebook.com/pages/Waldskilift-Schnittlingen/176316135803589) ,
 ---
-### Söhnstetten
+### SÃ¶hnstetten
 _Lift:_
-* Name: Mauertal Skilift Söhnstetten
+* Name: Mauertal Skilift SÃ¶hnstetten
 * [Website](http://www.wsca.de/wsca/skilift)
 * Position: 48.67505; 9.98458
 * Schnee Telefon: 0160 / 4486214

@@ -2,7 +2,7 @@ import sqlite3
 
 ################################################################################
 # Simple demo showing how to use sqlite data viva python
-# 
+#
 # This python3 script reads in the sqlite DB and outputs an md formatted overview.
 # It is used to generate the repository's website at https://dsc-de.github.io/Alblifte/
 ################################################################################
@@ -90,24 +90,25 @@ def printSkiArea(sa):
     StatusLink         = sa[6]
     Tel1               = sa[7]
     Tel2               = sa[8]
-    EMail              = sa[9]
+    istMietbar         = sa[9]
+    EMail              = sa[10]
     # Infrastructure
-    hatKunstschnee     = sa[10]
-    hatFlutlicht       = sa[11]
-    hatFunpark         = sa[12]
-    hatRodelhang       = sa[13]
-    hatRodellift       = sa[14]
-    hatTubing          = sa[15]
-    hatSommerbetrieb   = sa[16]
-    hatBikepark        = sa[17]
-    hatBullcart        = sa[18]
-    hatSommerrodelbahn = sa[19]
+    hatKunstschnee     = sa[11]
+    hatFlutlicht       = sa[12]
+    hatFunpark         = sa[13]
+    hatRodelhang       = sa[14]
+    hatRodellift       = sa[15]
+    hatTubing          = sa[16]
+    hatSommerbetrieb   = sa[17]
+    hatBikepark        = sa[18]
+    hatBullcart        = sa[19]
+    hatSommerrodelbahn = sa[20]
     # Social media
-    Facebook           = sa[20]
-    Twitter            = sa[21]
-    Youtube            = sa[22]
-    Feed               = sa[23]
-    Meta               = sa[24]
+    Facebook           = sa[21]
+    Twitter            = sa[22]
+    Youtube            = sa[23]
+    Feed               = sa[24]
+    Meta               = sa[25]
 
     # ----------------------------------------------------------------
     # Print header
@@ -122,16 +123,24 @@ def printSkiArea(sa):
     printLink( 'Webcam Link',    WebcamLink)
     printLink( 'Status Link',    StatusLink)
     printField('Schnee Telefon', Tel1, Tel2)
+    if istMietbar == -1:
+        printField('Lift is mietbar', 'unbekannt')
+    elif istMietbar == 1:
+        printField('Lift is mietbar', 'ja')
+    elif istMietbar == 0:
+        printField('Lift is mietbar', 'nein')
+    else:
+        printField('Lift is mietbar', '!!!Fehler!!!')
     print('')
 
     # ----------------------------------------------------------------
     # Print infrastructure
-    printInfrastruktur(sa[10:20]);
+    printInfrastruktur(sa[11:21]);
     print('')
 
     # ----------------------------------------------------------------
     # Social
-    printSocialMedia(sa[20:24]);
+    printSocialMedia(sa[21:25]);
     print('')
 
     # ----------------------------------------------------------------

@@ -1,10 +1,11 @@
 ### Lift ID: Bartholomae
 _Lift:_
-* Name: Skilift BartholomÃ¤
+* Name: Skilift Bartholomä
 * [Website](http://www.wirtsberg.de)
 * Position: 48.74643 ; 9.99566
 * [Webcam Link](http://wirtsberg.de/webcam/)
 * Schnee Telefon: 07173 / 71114
+* Lift is mietbar: ja
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -18,6 +19,7 @@ _Lift:_
 * Position: 48.3797345909524 ; 9.81591403484345
 * [Status Link](http://www.skilift-beiningen.de)
 * Schnee Telefon: 07344 / 6659
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -31,6 +33,7 @@ _Lift:_
 * [Website](http://www.tsv-beuren.de/abteilungen/ski)
 * Position: 48.565102 ; 9.408462
 * Schnee Telefon: 07025 / 2807
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -44,6 +47,7 @@ _Lift:_
 * Position: 48.2494261998293 ; 9.09528493881226
 * [Status Link](https://www.tv-bitz.de/abteilungen/lift-loipe/)
 * Schnee Telefon: 07431 / 55944
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -56,6 +60,7 @@ _Lift:_
 * [Website](http://www.ries-ostalb.de/index.php?id=346)
 * Position: 48.87625637 ; 10.38984516
 * Schnee Telefon: 07362 / 95690 0
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, 
 
@@ -68,6 +73,7 @@ _Lift:_
 * [Website](http://www.bopfingen.de/site/Bopfingen/node/94135/Lde)
 * Position: 48.85311 ; 10.34066
 * Schnee Telefon: 07362 / 3797
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -81,6 +87,7 @@ _Lift:_
 * Position: 48.289703701674 ; 9.09661531448364
 * [Status Link](https://www.facebook.com/Skilift-Burladingen-1625638694331016/)
 * Schnee Telefon: 0176 / 70214913
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Sommerbetrieb, Bikepark, 
 
@@ -88,14 +95,15 @@ _Infrastruktur:_ Kunstschnee, Sommerbetrieb, Bikepark,
 
 ---
 
-### Lift ID: BÃ¶ttingen
+### Lift ID: Böttingen
 _Lift:_
-* Name: Skilift BÃ¶ttingen
+* Name: Skilift Böttingen
 * [Website](https://www.skilift-boettingen.de/)
 * Position: 48.098483 ; 8.809533
 * [Webcam Link](https://www.skilift-boettingen.de/index.php/webcam)
 * [Status Link](https://www.skilift-boettingen.de/index.php/maktuelles1)
 * Schnee Telefon: 7429 / 539086
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -111,6 +119,7 @@ _Lift:_
 * [Webcam Link](https://www.sv-gmuend.de/skilift-winterhalde/webcam)
 * [Status Link](https://www.sv-gmuend.de/skilift-winterhalde/aktuelles-2)
 * Schnee Telefon: 0176 / 44636029
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, Funpark, 
 
@@ -126,6 +135,7 @@ _Lift:_
 * [Webcam Link](https://skilift-donnstetten.de/webcam/webcam.php)
 * [Status Link](https://www.skilift-donnstetten.de/)
 * Schnee Telefon: 07382 / 609
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, Sommerbetrieb, 
 
@@ -139,6 +149,7 @@ _Lift:_
 * Position: 48.69388 ; 9.82589
 * [Status Link](https://www.facebook.com/SkiliftDonzdorf/)
 * Schnee Telefon: 07162 / 24648
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -154,6 +165,7 @@ _Lift:_
 * [Webcam Link](https://skilifte-dottingen.de/cam-responsiv.php)
 * [Status Link](http://www.skilifte-dottingen.de)
 * Schnee Telefon: 07381 / 5017001
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -169,6 +181,7 @@ _Lift:_
 * [Webcam Link](http://www.wintersportvereinebingen.de/)
 * [Status Link](http://www.wintersportvereinebingen.de)
 * Schnee Telefon: 07431 / 72564
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, Funpark, 
 
@@ -183,6 +196,7 @@ _Lift:_
 * Position: 48.3923816567289 ; 9.31522607803345
 * [Status Link](http://www.skilift-engstingen.de)
 * Schnee Telefon: 07129 / 3910 ; 07129 / 3595
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, 
 
@@ -196,6 +210,7 @@ _Lift:_
 * Position: 48.35457 ; 9.17502
 * [Status Link](http://www.sommerbob.de/sommerbobbahn/wintersport.html)
 * Schnee Telefon: 07128 / 2056
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, Sommerbetrieb, 
 
@@ -211,6 +226,7 @@ _Lift:_
 * [Webcam Link](http://4-host.de/sc-fridingen/webcam-skihang-2/)
 * [Status Link](http://www.sc-fridingen.de)
 * Schnee Telefon: 07463 / 1795
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -226,6 +242,7 @@ _Lift:_
 * [Webcam Link](http://www.skilift-genkingen.de/webcam.html)
 * [Status Link](http://www.skilift-genkingen.de/aktuell.html)
 * Schnee Telefon: 07128 / 520
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, Rodelhang, 
 
@@ -238,6 +255,7 @@ _Lift:_
 * [Website](https://www.scgosheim.de/skilift/)
 * Position: 48.14145 ; 8.74718
 * Schnee Telefon: 07426 / 3838
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -252,6 +270,7 @@ _Lift:_
 * Position: 48.620868 ; 10.023243
 * [Status Link](https://www.sc-gerstetten.de/index.php/wintersportzentrum-greuth/skilift)
 * Schnee Telefon: 07323 / 919288
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, Funpark, 
 
@@ -259,13 +278,14 @@ _Infrastruktur:_ Kunstschnee, Flutlicht, Funpark,
 
 ---
 
-### Lift ID: GroÃŸerlach
+### Lift ID: Großerlach
 _Lift:_
-* Name: Skilift und Bikepark GroÃŸerlach
+* Name: Skilift und Bikepark Großerlach
 * [Website](http://www.skilift-grosserlach.de/winter.html)
 * Position: 49.051026 ; 9.51836
 * [Status Link](http://www.skilift-grosserlach.de)
 * Schnee Telefon: 07025 / 7750 ;  
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, Funpark, Sommerbetrieb, Sommerrodelbahn
 
@@ -279,6 +299,7 @@ _Lift:_
 * [Website](http://www.tsf-gschwend.de/skizunft/ski.html)
 * Position: 48.92699 ; 9.73938
 * Schnee Telefon: 07972 / 5501
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -294,6 +315,7 @@ _Lift:_
 * [Webcam Link](https://passivsport.de/halde/)
 * [Status Link](http://www.skilift-halde.de)
 * Schnee Telefon: 07333 / 6039
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Rodellift, 
 
@@ -306,6 +328,7 @@ _Lift:_
 * [Website](https://de-de.facebook.com/pages/Freemountain-Hausen/412175075537849)
 * Position: 48.301181 ; 9.192519
 * Schnee Telefon: 0176 / 97559413
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -318,6 +341,7 @@ _Lift:_
 * Name: Skilift Hausen am Hohen Karpfen
 * [Website](https://www.tv-hausen-ob-verena.de/turnverein/abteilung-ski/skilift-hausen/)
 * Position: 48.04454 ; 8.71658
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, 
 
@@ -332,6 +356,7 @@ _Lift:_
 * [Webcam Link](https://www.bergwacht-heidenheim.de/index.php/ski-lift)
 * [Status Link](http://www.bergwacht-heidenheim.de/index.php/ski-lift)
 * Schnee Telefon: 07321 / 45874
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, Sommerbetrieb, Bikepark, 
 
@@ -345,6 +370,7 @@ _Lift:_
 * Position: 48.78642 ; 9.9849
 * [Status Link](https://www.sport-boerse-aalen.de/skilifte/oeffnungszeiten.html)
 * Schnee Telefon: 07365 / 5830 ; 07361 / 44448
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Funpark, Sommerbetrieb, Bikepark, 
 
@@ -359,6 +385,7 @@ _Lift:_
 * Position: 49.00282 ; 10.04223
 * [Status Link](https://www.snow-and-fun.de/index.php/skilift)
 * Schnee Telefon: 0172 / 1354984
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -374,6 +401,7 @@ _Lift:_
 * [Webcam Link](https://www.wintersport-arena.com/wintersport-arena-webcam/)
 * [Status Link](https://www.wintersport-arena.com/)
 * Schnee Telefon: 07129 / 4323 ; 07129 / 5522
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, Funpark, Rodelhang, Tubing, 
 
@@ -388,6 +416,7 @@ _Lift:_
 * Position: 48.4030989201594 ; 9.27095353603363
 * [Status Link](http://www.skilift-traifelberg.de)
 * Schnee Telefon: 07129 / 7117
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, Rodelhang, 
 
@@ -395,11 +424,12 @@ _Infrastruktur:_ Kunstschnee, Flutlicht, Rodelhang,
 
 ---
 
-### Lift ID: HÃ¼lben
+### Lift ID: Hülben
 _Lift:_
-* Name: Skilift Hesel in RÃ¶merstein BÃ¶hringen
+* Name: Skilift Hesel in Römerstein Böhringen
 * [Website](http://www.schiclubhuelben.de/ski-lift-hesel)
 * Position: 48.50364 ; 9.5649
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, 
 
@@ -414,6 +444,7 @@ _Lift:_
 * Position: 48.92398 ; 9.6468
 * [Status Link](http://www.rodelzentrum.de)
 * Schnee Telefon: 07181 / 71357
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Rodelhang, Rodellift, Sommerbetrieb, 
 
@@ -427,6 +458,7 @@ _Lift:_
 * Position: 48.4815485335858 ; 9.65918183326721
 * [Status Link](http://www.skilift-laichingen.de)
 * Schnee Telefon: 07333 / 6430
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, Rodelhang, Rodellift, 
 
@@ -439,6 +471,7 @@ _Lift:_
 * [Website](http://www.tsv-hettingen.de/ski/)
 * Position: 48.213692646648 ; 9.22988891601562
 * Schnee Telefon: 07574 / 935550
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -453,6 +486,7 @@ _Lift:_
 * Position: 48.21518 ; 8.9597
 * [Status Link](http://www.albweiss.de/Im-Schnee/Lifte2/Schneebericht)
 * Schnee Telefon: 07432 / 3307
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -466,6 +500,7 @@ _Lift:_
 * [Website](https://www.facebook.com/Skilift-Witthoh-501619613688897/)
 * Position: 47.93614 ; 8.83077
 * Schnee Telefon: 074 / 615733 ; 0171 / 6424777
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -480,6 +515,7 @@ _Lift:_
 * Position: 48.07938 ; 8.8093
 * [Status Link](https://www.skilift-aggenhausen.de/%C3%B6ffnungszeiten-schneelage/)
 * Schnee Telefon: 07429 / 554
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -489,23 +525,25 @@ _Infrastruktur:_ Kunstschnee, Flutlicht,
 
 ### Lift ID: Mehrstetten
 _Lift:_
-* Name: Skilift BÃ¶ttental
+* Name: Skilift Böttental
 * [Website](none)
 * Position: 48.386356 ; 9.561485
 * Schnee Telefon: 07381 / 934264
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, 
 
 
 ---
 
-### Lift ID: MeÃŸstetten
+### Lift ID: Meßstetten
 _Lift:_
-* Name: Skiarena TÃ¤le
+* Name: Skiarena Täle
 * [Website](https://www.skiverein.de/)
 * Position: 48.1845 ; 8.9517
 * [Status Link](https://www.skiverein.de/)
 * Schnee Telefon: 07431 / 61323
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -513,13 +551,14 @@ _Infrastruktur:_ Kunstschnee, Flutlicht,
 
 ---
 
-### Lift ID: MÃ¼hlheim
+### Lift ID: Mühlheim
 _Lift:_
 * Name: Skilift Kanapee
 * [Website](https://skiclub-muehlheim.de/)
 * Position: 48.0151 ; 8.8962
 * [Status Link](http://www.skiclub-muehlheim.de)
 * Schnee Telefon: 07463 / 1222 ; 07463 / 626
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -527,13 +566,14 @@ _Infrastruktur:_ Kunstschnee, Flutlicht,
 
 ---
 
-### Lift ID: MÃ¼nsingen
+### Lift ID: Münsingen
 _Lift:_
-* Name: Skilift ZiegelhÃ¤user
+* Name: Skilift Ziegelhäuser
 * [Website](https://svauingen.de/skilift-muensingen/)
 * Position: 48.39812 ; 9.49115
 * [Status Link](https://svauingen.de/skilift-muensingen/)
 * Schnee Telefon: 07381 / 2900
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -548,6 +588,7 @@ _Lift:_
 * Position: 48.70783 ; 10.23082
 * [Status Link](http://www.tsg-nattheim.de/wp/ski-liftanlagen-und-loipe/)
 * Schnee Telefon: 07321 / 71824
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -556,10 +597,11 @@ _Infrastruktur:_ Kunstschnee, Flutlicht,
 
 ### Lift ID: Neuffen
 _Lift:_
-* Name: SkigelÃ¤nde am Lettenberg in Neuffen
+* Name: Skigelände am Lettenberg in Neuffen
 * [Website](http://www.tbneuffen.de/cms/abteilung/Ski/infoseite/679)
 * Position: 48.542946 ; 9.375991
 * Schnee Telefon: 07025 / 7750 ;  
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -568,10 +610,11 @@ _Infrastruktur:_ Kunstschnee, Flutlicht,
 
 ### Lift ID: Neufra
 _Lift:_
-* Name: Roter-BÃ¼hl-Lift
+* Name: Roter-Bühl-Lift
 * [Website](http://www.skiclub-neufra.de/html/liftbetrieb.html)
 * Position: 48.24911 ; 9.1812
 * Schnee Telefon: 07574 / 3489
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, 
 
@@ -586,6 +629,7 @@ _Lift:_
 * Position: 47.9927 ; 8.935
 * [Status Link](http://www.skilift-neuhausen.de)
 * Schnee Telefon: 07467 / 767
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, Funpark, Rodelhang, 
 
@@ -601,6 +645,7 @@ _Lift:_
 * [Webcam Link]( )
 * [Status Link]( )
 * Schnee Telefon: 07429 / 1558 ;  
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, 
 
@@ -615,6 +660,7 @@ _Lift:_
 * Position: 48.5686 ; 9.52819
 * [Status Link](http://www.skilift-ochsenwang.de)
 * Schnee Telefon: 07023 / 72034
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, 
 
@@ -630,6 +676,7 @@ _Lift:_
 * [Webcam Link](http://5203ecb8319bc.click2stream.com)
 * [Status Link](http://www.sc-onstmettingen.de)
 * Schnee Telefon: 07432 / 220537
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -643,6 +690,7 @@ _Lift:_
 * Position: 48.8204142257646 ; 10.0790762901306
 * [Status Link](http://www.aalen.de/ostalb-skilifte-aalen.5866.25.htm)
 * Schnee Telefon: 07361 / 42210
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -658,6 +706,7 @@ _Lift:_
 * [Webcam Link](https://www.wsv-pfeffingen.de/webcam)
 * [Status Link](https://www.wsv-pfeffingen.de)
 * Schnee Telefon: 07432 / 263347
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, 
 
@@ -671,7 +720,8 @@ _Lift:_
 * [Website](https://www.bewegungszentrumpfulb.de/begeisterung/)
 * Position: 48.5298212963715 ; 9.53690528869629
 * [Status Link](https://www.bewegungszentrumpfulb.de)
-* Schnee Telefon: 07026 / 3763394 (Pfulb-HÃ¼tte mit AB) ; 07026 / 3710999 (Pfulb-BÃ¼ro ohne AB)
+* Schnee Telefon: 07026 / 3763394 (Pfulb-Hütte mit AB) ; 07026 / 3710999 (Pfulb-Büro ohne AB)
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, Rodelhang, 
 
@@ -686,6 +736,7 @@ _Lift:_
 * [Webcam Link](http://www.skilift-salmendingen.de/webcam.html)
 * [Status Link](http://www.skilift-salmendingen.de)
 * Schnee Telefon: 07126 / 921727
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -699,6 +750,7 @@ _Lift:_
 * Position: 48.7152114985797 ; 10.1414966583252
 * [Status Link](http://albuch-skilift.de/schnee-und-wetter)
 * Schnee Telefon: 07321 / 66650
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -713,6 +765,7 @@ _Lift:_
 * Position: 48.6744237612181 ; 9.88233089447022
 * [Status Link](http://waldskilift.heimat.eu)
 * Schnee Telefon: 01522 / 8815291
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -720,12 +773,13 @@ _Infrastruktur:_ Kunstschnee, Flutlicht,
 
 ---
 
-### Lift ID: SÃ¶hnstetten
+### Lift ID: Söhnstetten
 _Lift:_
-* Name: Mauertal Skilift SÃ¶hnstetten
+* Name: Mauertal Skilift Söhnstetten
 * [Website](http://www.wsca.de/wsca/skilift)
 * Position: 48.67505 ; 9.98458
 * Schnee Telefon: 0160 / 4486214
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -740,6 +794,7 @@ _Lift:_
 * [Webcam Link](http://www.wsv-tailfingen.de/index.php/webcam-skilift-albstadt-tailfingen-schwaebische-alb)
 * [Status Link](http://www.wsv-tailfingen.de/index.php)
 * Schnee Telefon: 07432 / 3322
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, Funpark, Sommerbetrieb, Bikepark, 
 
@@ -755,6 +810,7 @@ _Lift:_
 * [Webcam Link](https://www.skilifte-treffelhausen.de/)
 * [Status Link](https://www.skilifte-treffelhausen.de/pistenberichte/)
 * Schnee Telefon: 07332 / 6108 ; 07332 / 5421
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -769,6 +825,7 @@ _Lift:_
 * Position: 48.29945 ; 9.23566
 * [Status Link](http://www.ski-trochtelfingen.de)
 * Schnee Telefon: 0173 / 7079050
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, 
 
@@ -783,6 +840,7 @@ _Lift:_
 * Position: 48.23769 ; 9.01703
 * [Status Link](http://www.albweiss.de/Im-Schnee/Lifte2/Schneebericht)
 * Schnee Telefon: 0173 / 7568581
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -797,6 +855,7 @@ _Lift:_
 * Position: 48.447166 ; 9.40031
 * [Status Link](http://www.skilift-beiwald.de)
 * Schnee Telefon: 07122 / 3566
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -809,6 +868,7 @@ _Lift:_
 * [Website](http://www.skiclub-vilsingen.de)
 * Position: 48.0609 ; 9.1415
 * Schnee Telefon: 07571 / 6852269
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, 
 
@@ -823,6 +883,7 @@ _Lift:_
 * Position: 48.73026 ; 9.82786
 * [Status Link](https://www.facebook.com/Skiteam-Waldstetten-188498661246015/)
 * Schnee Telefon: 07171 / 49284
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -836,6 +897,7 @@ _Lift:_
 * [Website](http://www.sc-wehingen.de/html/skilift.html)
 * Position: 48.1604 ; 8.7879
 * Schnee Telefon: 07426 / 1456
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, 
 
@@ -848,6 +910,7 @@ _Lift:_
 * [Website](http://skilift-weiler.de.to)
 * Position: 48.44577 ; 8.93053
 * Schnee Telefon: 07472 / 5198
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, 
 
@@ -861,6 +924,7 @@ _Lift:_
 * Position: 48.19729 ; 8.86012
 * [Status Link](http://www.skiclubweilstetten.de)
 * Schnee Telefon: 07436 / 407
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -875,6 +939,7 @@ _Lift:_
 * [Webcam Link](http://www.skilifte-wiesensteig.de/index.php?main=wetter_webcam&nav=navigation&sub_nav=4)
 * [Status Link](http://www.skilifte-wiesensteig.de/schneebericht/)
 * Schnee Telefon: 07335 / 6310
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, 
 
@@ -889,6 +954,7 @@ _Lift:_
 * [Webcam Link](http://www.wsv-winterlingen.de)
 * [Status Link](http://www.wsv-winterlingen.de)
 * Schnee Telefon: 07434 / 2122
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, 
 
@@ -904,6 +970,7 @@ _Lift:_
 * [Webcam Link](http://www.salzwinkel.de/index.php/wetter/webcam)
 * [Status Link](http://www.salzwinkel.de)
 * Schnee Telefon: 07333 / 5212
+* Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, Funpark, 
 

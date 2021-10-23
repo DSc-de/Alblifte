@@ -7,7 +7,7 @@ _Lift:_
 * Schnee Telefon: 07173 / 71114
 * Lift is mietbar: ja
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 
 ---
@@ -21,7 +21,7 @@ _Lift:_
 * Schnee Telefon: 07344 / 6659
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 * _Social Media:_ [Facebook](http://www.facebook.com/skiliftbeiningen) ,
 
@@ -35,7 +35,7 @@ _Lift:_
 * Schnee Telefon: 07025 / 2807
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 
 ---
@@ -49,7 +49,7 @@ _Lift:_
 * Schnee Telefon: 07431 / 55944
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 
 ---
@@ -62,7 +62,6 @@ _Lift:_
 * Schnee Telefon: 07362 / 95690 0
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, 
 
 
 ---
@@ -75,7 +74,7 @@ _Lift:_
 * Schnee Telefon: 07362 / 3797
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 
 ---
@@ -89,7 +88,7 @@ _Lift:_
 * Schnee Telefon: 0176 / 70214913
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Sommerbetrieb, Bikepark, 
+_Infrastruktur:_ Sommerbetrieb, Bikepark, 
 
 * _Social Media:_ [Facebook](https://www.facebook.com/Skilift-Burladingen-1625638694331016/) ,
 
@@ -105,7 +104,7 @@ _Lift:_
 * Schnee Telefon: 7429 / 539086
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 * _Social Media:_ [Facebook](https://de-de.facebook.com/pages/Skilift-B%C3%B6ttingen/112636298802429) ,
 
@@ -121,7 +120,7 @@ _Lift:_
 * Schnee Telefon: 0176 / 44636029
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, Funpark, 
+_Infrastruktur:_ Flutlicht, Funpark, 
 
 * _Social Media:_ [Facebook](https://de-de.facebook.com/snowpark.degenfeld) ,
 
@@ -151,7 +150,7 @@ _Lift:_
 * Schnee Telefon: 07162 / 24648
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 * _Social Media:_ [Facebook](https://www.facebook.com/SkiliftDonzdorf/) ,
 
@@ -167,7 +166,7 @@ _Lift:_
 * Schnee Telefon: 07381 / 5017001
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 * _Social Media:_ [Facebook](https://www.facebook.com/pages/Skilift-Dottingen-GbR/167152093323234) ,[Twitter](https://twitter.com/SkiDottingen) ,
 
@@ -198,7 +197,6 @@ _Lift:_
 * Schnee Telefon: 07129 / 3910 ; 07129 / 3595
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, 
 
 
 ---
@@ -212,7 +210,7 @@ _Lift:_
 * Schnee Telefon: 07128 / 2056
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, Sommerbetrieb, 
+_Infrastruktur:_ Flutlicht, Sommerbetrieb, 
 
 * _Social Media:_ [Facebook](https://www.facebook.com/BobbahnErpfingen) ,
 
@@ -228,7 +226,7 @@ _Lift:_
 * Schnee Telefon: 07463 / 1795
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 * _Social Media:_ [Facebook](https://www.facebook.com/skiclub.fridingen) ,
 
@@ -244,7 +242,7 @@ _Lift:_
 * Schnee Telefon: 07128 / 520
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, Rodelhang, 
+_Infrastruktur:_ Flutlicht, Rodelhang, 
 
 
 ---
@@ -257,7 +255,7 @@ _Lift:_
 * Schnee Telefon: 07426 / 3838
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 * _Social Media:_ [Facebook](https://www.facebook.com/groups/311273032233137/) ,
 
@@ -272,7 +270,7 @@ _Lift:_
 * Schnee Telefon: 07323 / 919288
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, Funpark, 
+_Infrastruktur:_ Flutlicht, Funpark, 
 
 * _Social Media:_ [Facebook](https://www.facebook.com/pages/Wintersportzentrum-Greuth/189308424486245) ,
 
@@ -287,7 +285,7 @@ _Lift:_
 * Schnee Telefon: 07025 / 7750 ;  
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, Funpark, Sommerbetrieb, Sommerrodelbahn
+_Infrastruktur:_ Flutlicht, Funpark, Sommerbetrieb, Sommerrodelbahn
 
 * _Social Media:_ [Facebook](https://www.facebook.com/SkiliftGrosserlach) ,
 
@@ -301,7 +299,7 @@ _Lift:_
 * Schnee Telefon: 07972 / 5501
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 * _Social Media:_ [Facebook](https://de-de.facebook.com/SkiliftTSFGschwend) ,
 
@@ -317,7 +315,7 @@ _Lift:_
 * Schnee Telefon: 07333 / 6039
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Rodellift, 
+_Infrastruktur:_ Rodellift, 
 
 
 ---
@@ -330,7 +328,7 @@ _Lift:_
 * Schnee Telefon: 0176 / 97559413
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 * _Social Media:_ [Facebook](https://de-de.facebook.com/pages/Freemountain-Hausen/412175075537849) ,
 
@@ -343,7 +341,6 @@ _Lift:_
 * Position: 48.04454 ; 8.71658
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, 
 
 
 ---
@@ -358,7 +355,7 @@ _Lift:_
 * Schnee Telefon: 07321 / 45874
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, Sommerbetrieb, Bikepark, 
+_Infrastruktur:_ Flutlicht, Sommerbetrieb, Bikepark, 
 
 
 ---
@@ -372,7 +369,7 @@ _Lift:_
 * Schnee Telefon: 07365 / 5830 ; 07361 / 44448
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Funpark, Sommerbetrieb, Bikepark, 
+_Infrastruktur:_ Funpark, Sommerbetrieb, Bikepark, 
 
 * _Social Media:_ [Facebook](https://www.facebook.com/skizentrumhirtenteich/) ,
 
@@ -387,7 +384,7 @@ _Lift:_
 * Schnee Telefon: 0172 / 1354984
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 * _Social Media:_ [Facebook](https://www.facebook.com/sfhohenberg/) ,
 
@@ -403,7 +400,7 @@ _Lift:_
 * Schnee Telefon: 07129 / 4323 ; 07129 / 5522
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, Funpark, Rodelhang, Tubing, 
+_Infrastruktur:_ Flutlicht, Funpark, Rodelhang, Tubing, 
 
 * _Social Media:_ [Facebook](https://www.facebook.com/wintersportarenacom) ,
 
@@ -418,7 +415,7 @@ _Lift:_
 * Schnee Telefon: 07129 / 7117
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, Rodelhang, 
+_Infrastruktur:_ Flutlicht, Rodelhang, 
 
 * _Social Media:_ [Facebook](http://www.facebook.com/pages/Skilift-Traifelberg/277889155577153) ,
 
@@ -431,7 +428,6 @@ _Lift:_
 * Position: 48.50364 ; 9.5649
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, 
 
 * _Social Media:_ [Facebook](https://de-de.facebook.com/pages/Schiclub-H%C3%BClben/132959493454665) ,
 
@@ -446,7 +442,7 @@ _Lift:_
 * Schnee Telefon: 07181 / 71357
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Rodelhang, Rodellift, Sommerbetrieb, 
+_Infrastruktur:_ Rodelhang, Rodellift, Sommerbetrieb, 
 
 
 ---
@@ -460,7 +456,7 @@ _Lift:_
 * Schnee Telefon: 07333 / 6430
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, Rodelhang, Rodellift, 
+_Infrastruktur:_ Flutlicht, Rodelhang, Rodellift, 
 
 
 ---
@@ -473,7 +469,7 @@ _Lift:_
 * Schnee Telefon: 07574 / 935550
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 * _Social Media:_ [Facebook](https://www.facebook.com/Skilift-Hettingen-112642335515436) ,
 
@@ -488,7 +484,7 @@ _Lift:_
 * Schnee Telefon: 07432 / 3307
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 * _Social Media:_ [Facebook](https://www.facebook.com/TsvLautlingen) ,
 
@@ -502,7 +498,7 @@ _Lift:_
 * Schnee Telefon: 074 / 615733 ; 0171 / 6424777
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 * _Social Media:_ [Facebook](https://www.facebook.com/Skilift-Witthoh-501619613688897/) ,
 
@@ -517,7 +513,7 @@ _Lift:_
 * Schnee Telefon: 07429 / 554
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 * _Social Media:_ [Facebook](https://www.facebook.com/pages/Skilift-Aggenhausen/119307408134198) ,
 
@@ -531,7 +527,6 @@ _Lift:_
 * Schnee Telefon: 07381 / 934264
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, 
 
 
 ---
@@ -545,7 +540,7 @@ _Lift:_
 * Schnee Telefon: 07431 / 61323
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 * _Social Media:_ [Facebook](https://www.facebook.com/Langlaeufer/) ,
 
@@ -560,7 +555,7 @@ _Lift:_
 * Schnee Telefon: 07463 / 1222 ; 07463 / 626
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 * _Social Media:_ [Facebook](https://www.facebook.com/Skiclub-M%C3%BChlheim-eV-1517158168537428/) ,
 
@@ -575,7 +570,7 @@ _Lift:_
 * Schnee Telefon: 07381 / 2900
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 * _Social Media:_ [Facebook](https://www.facebook.com/svauingen/) ,
 
@@ -590,7 +585,7 @@ _Lift:_
 * Schnee Telefon: 07321 / 71824
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 
 ---
@@ -603,7 +598,7 @@ _Lift:_
 * Schnee Telefon: 07025 / 7750 ;  
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 
 ---
@@ -616,7 +611,6 @@ _Lift:_
 * Schnee Telefon: 07574 / 3489
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, 
 
 * _Social Media:_ [Facebook](https://www.facebook.com/Skiclub-Neufra-1971-eV-1161574547271458/) ,
 
@@ -631,7 +625,7 @@ _Lift:_
 * Schnee Telefon: 07467 / 767
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, Funpark, Rodelhang, 
+_Infrastruktur:_ Flutlicht, Funpark, Rodelhang, 
 
 * _Social Media:_ [Facebook](https://www.facebook.com/pages/Skilift-SAV-Neuhausen-ob-Eck/181367688541502?sk=info) ,
 
@@ -647,7 +641,6 @@ _Lift:_
 * Schnee Telefon: 07429 / 1558 ;  
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, 
 
 * _Social Media:_ [Facebook](https://www.facebook.com/pages/TSV-Nusplingen-Abt-Ski/446426882070725?fref=ts) ,
 
@@ -662,7 +655,6 @@ _Lift:_
 * Schnee Telefon: 07023 / 72034
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, 
 
 * _Social Media:_ [Facebook](https://www.facebook.com/skiliftochsenwang/) ,
 
@@ -678,7 +670,7 @@ _Lift:_
 * Schnee Telefon: 07432 / 220537
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 
 ---
@@ -692,7 +684,7 @@ _Lift:_
 * Schnee Telefon: 07361 / 42210
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 * _Social Media:_ [Facebook](https://de-de.facebook.com/OstalbSkilifte) ,
 
@@ -708,7 +700,6 @@ _Lift:_
 * Schnee Telefon: 07432 / 263347
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, 
 
 * _Social Media:_ [Facebook](https://www.facebook.com/pages/WSV-Pfeffingen-eV/241863652537071) ,
 
@@ -723,7 +714,7 @@ _Lift:_
 * Schnee Telefon: 07026 / 3763394 (Pfulb-Hütte mit AB) ; 07026 / 3710999 (Pfulb-Büro ohne AB)
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, Rodelhang, 
+_Infrastruktur:_ Flutlicht, Rodelhang, 
 
 
 ---
@@ -738,7 +729,7 @@ _Lift:_
 * Schnee Telefon: 07126 / 921727
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 
 ---
@@ -752,7 +743,7 @@ _Lift:_
 * Schnee Telefon: 07321 / 66650
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 * _Social Media:_ [Facebook](https://www.facebook.com/albuchskiliftschnaitheim/) ,
 
@@ -767,7 +758,7 @@ _Lift:_
 * Schnee Telefon: 01522 / 8815291
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 * _Social Media:_ [Facebook](https://de-de.facebook.com/pages/Waldskilift-Schnittlingen/176316135803589) ,
 
@@ -781,7 +772,7 @@ _Lift:_
 * Schnee Telefon: 0160 / 4486214
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 
 ---
@@ -796,7 +787,7 @@ _Lift:_
 * Schnee Telefon: 07432 / 3322
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, Funpark, Sommerbetrieb, Bikepark, 
+_Infrastruktur:_ Flutlicht, Funpark, Sommerbetrieb, Bikepark, 
 
 * _Social Media:_ [Facebook](https://www.facebook.com/groups/Skilift.Albstadt.Tailfingen/) ,
 
@@ -827,7 +818,6 @@ _Lift:_
 * Schnee Telefon: 0173 / 7079050
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, 
 
 * _Social Media:_ [Facebook](https://www.facebook.com/SkiliftHennenstein/) ,
 
@@ -842,7 +832,7 @@ _Lift:_
 * Schnee Telefon: 0173 / 7568581
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 * _Social Media:_ [Facebook](https://de-de.facebook.com/SkiclubTruchtelfingen) ,
 
@@ -857,7 +847,7 @@ _Lift:_
 * Schnee Telefon: 07122 / 3566
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 
 ---
@@ -870,7 +860,6 @@ _Lift:_
 * Schnee Telefon: 07571 / 6852269
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, 
 
 * _Social Media:_ [Facebook](https://www.facebook.com/pages/Skiclub-Vilsingen-eV/117075805133029) ,
 
@@ -885,7 +874,7 @@ _Lift:_
 * Schnee Telefon: 07171 / 49284
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 * _Social Media:_ [Facebook](https://www.facebook.com/Skiteam-Waldstetten-188498661246015/) ,
 
@@ -899,7 +888,6 @@ _Lift:_
 * Schnee Telefon: 07426 / 1456
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, 
 
 
 ---
@@ -912,7 +900,6 @@ _Lift:_
 * Schnee Telefon: 07472 / 5198
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, 
 
 
 ---
@@ -926,7 +913,7 @@ _Lift:_
 * Schnee Telefon: 07436 / 407
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 
 ---
@@ -941,7 +928,6 @@ _Lift:_
 * Schnee Telefon: 07335 / 6310
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, 
 
 
 ---
@@ -956,7 +942,7 @@ _Lift:_
 * Schnee Telefon: 07434 / 2122
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, 
+_Infrastruktur:_ Flutlicht, 
 
 * _Social Media:_ [Facebook](https://www.facebook.com/pages/WSV-Winterlingen/320395944649455) ,
 
@@ -972,7 +958,7 @@ _Lift:_
 * Schnee Telefon: 07333 / 5212
 * Lift is mietbar: unbekannt
 
-_Infrastruktur:_ Kunstschnee, Flutlicht, Funpark, 
+_Infrastruktur:_ Flutlicht, Funpark, 
 
 * _Social Media:_ [Facebook](https://www.facebook.com/salzwinkelsnowpark/) ,
 

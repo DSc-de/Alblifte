@@ -26,6 +26,7 @@ MIT.
 * Status Link
 * Webcam Link
 * Schnee-Telefon
+* Kann gemietet werden
 
 ### Infrastruktur
 * Kunstschnee

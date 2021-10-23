@@ -1,6 +1,6 @@
 ### Lift ID: Bartholomae
 _Lift:_
-* Name: Skilift Bartholomä
+* Name: Skilift BartholomÃ¤
 * [Website](http://www.wirtsberg.de)
 * Position: 48.74643 ; 9.99566
 * [Webcam Link](http://wirtsberg.de/webcam/)
@@ -95,9 +95,9 @@ _Infrastruktur:_ Kunstschnee, Sommerbetrieb, Bikepark,
 
 ---
 
-### Lift ID: Böttingen
+### Lift ID: BÃ¶ttingen
 _Lift:_
-* Name: Skilift Böttingen
+* Name: Skilift BÃ¶ttingen
 * [Website](https://www.skilift-boettingen.de/)
 * Position: 48.098483 ; 8.809533
 * [Webcam Link](https://www.skilift-boettingen.de/index.php/webcam)
@@ -278,9 +278,9 @@ _Infrastruktur:_ Kunstschnee, Flutlicht, Funpark,
 
 ---
 
-### Lift ID: Großerlach
+### Lift ID: GroÃŸerlach
 _Lift:_
-* Name: Skilift und Bikepark Großerlach
+* Name: Skilift und Bikepark GroÃŸerlach
 * [Website](http://www.skilift-grosserlach.de/winter.html)
 * Position: 49.051026 ; 9.51836
 * [Status Link](http://www.skilift-grosserlach.de)
@@ -424,9 +424,9 @@ _Infrastruktur:_ Kunstschnee, Flutlicht, Rodelhang,
 
 ---
 
-### Lift ID: Hülben
+### Lift ID: HÃ¼lben
 _Lift:_
-* Name: Skilift Hesel in Römerstein Böhringen
+* Name: Skilift Hesel in RÃ¶merstein BÃ¶hringen
 * [Website](http://www.schiclubhuelben.de/ski-lift-hesel)
 * Position: 48.50364 ; 9.5649
 * Lift is mietbar: unbekannt
@@ -525,7 +525,7 @@ _Infrastruktur:_ Kunstschnee, Flutlicht,
 
 ### Lift ID: Mehrstetten
 _Lift:_
-* Name: Skilift Böttental
+* Name: Skilift BÃ¶ttental
 * [Website](none)
 * Position: 48.386356 ; 9.561485
 * Schnee Telefon: 07381 / 934264
@@ -536,9 +536,9 @@ _Infrastruktur:_ Kunstschnee,
 
 ---
 
-### Lift ID: Meßstetten
+### Lift ID: MeÃŸstetten
 _Lift:_
-* Name: Skiarena Täle
+* Name: Skiarena TÃ¤le
 * [Website](https://www.skiverein.de/)
 * Position: 48.1845 ; 8.9517
 * [Status Link](https://www.skiverein.de/)
@@ -551,7 +551,7 @@ _Infrastruktur:_ Kunstschnee, Flutlicht,
 
 ---
 
-### Lift ID: Mühlheim
+### Lift ID: MÃ¼hlheim
 _Lift:_
 * Name: Skilift Kanapee
 * [Website](https://skiclub-muehlheim.de/)
@@ -566,9 +566,9 @@ _Infrastruktur:_ Kunstschnee, Flutlicht,
 
 ---
 
-### Lift ID: Münsingen
+### Lift ID: MÃ¼nsingen
 _Lift:_
-* Name: Skilift Ziegelhäuser
+* Name: Skilift ZiegelhÃ¤user
 * [Website](https://svauingen.de/skilift-muensingen/)
 * Position: 48.39812 ; 9.49115
 * [Status Link](https://svauingen.de/skilift-muensingen/)
@@ -597,7 +597,7 @@ _Infrastruktur:_ Kunstschnee, Flutlicht,
 
 ### Lift ID: Neuffen
 _Lift:_
-* Name: Skigelände am Lettenberg in Neuffen
+* Name: SkigelÃ¤nde am Lettenberg in Neuffen
 * [Website](http://www.tbneuffen.de/cms/abteilung/Ski/infoseite/679)
 * Position: 48.542946 ; 9.375991
 * Schnee Telefon: 07025 / 7750 ;  
@@ -610,7 +610,7 @@ _Infrastruktur:_ Kunstschnee, Flutlicht,
 
 ### Lift ID: Neufra
 _Lift:_
-* Name: Roter-Bühl-Lift
+* Name: Roter-BÃ¼hl-Lift
 * [Website](http://www.skiclub-neufra.de/html/liftbetrieb.html)
 * Position: 48.24911 ; 9.1812
 * Schnee Telefon: 07574 / 3489
@@ -720,7 +720,7 @@ _Lift:_
 * [Website](https://www.bewegungszentrumpfulb.de/begeisterung/)
 * Position: 48.5298212963715 ; 9.53690528869629
 * [Status Link](https://www.bewegungszentrumpfulb.de)
-* Schnee Telefon: 07026 / 3763394 (Pfulb-Hütte mit AB) ; 07026 / 3710999 (Pfulb-Büro ohne AB)
+* Schnee Telefon: 07026 / 3763394 (Pfulb-HÃ¼tte mit AB) ; 07026 / 3710999 (Pfulb-BÃ¼ro ohne AB)
 * Lift is mietbar: unbekannt
 
 _Infrastruktur:_ Kunstschnee, Flutlicht, Rodelhang, 
@@ -773,9 +773,9 @@ _Infrastruktur:_ Kunstschnee, Flutlicht,
 
 ---
 
-### Lift ID: Söhnstetten
+### Lift ID: SÃ¶hnstetten
 _Lift:_
-* Name: Mauertal Skilift Söhnstetten
+* Name: Mauertal Skilift SÃ¶hnstetten
 * [Website](http://www.wsca.de/wsca/skilift)
 * Position: 48.67505 ; 9.98458
 * Schnee Telefon: 0160 / 4486214
